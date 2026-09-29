@@ -1,0 +1,1 @@
+print("Aplicação executada dentro de um container Docker!")
